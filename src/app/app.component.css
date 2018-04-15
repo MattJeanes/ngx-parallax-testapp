@@ -1,0 +1,7 @@
+*[parallax] {
+    width: 700px;
+    height: 300px;
+    
+    background-size: 100%;
+	background-image: url('https://www.wildlifearchives.com/wp-content/uploads/2017/09/monkey-selfie-most-beautiful-picture-of-the-day-september-most-beautiful-picture-15058527474kn8g.jpg');
+}
